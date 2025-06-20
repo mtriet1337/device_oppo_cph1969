@@ -1,2 +1,0 @@
-# Example SELinux file context
-/system/bin/example        u:object_r:system_file:s0
